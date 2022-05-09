@@ -1,0 +1,19 @@
+{
+  "name": "cursos-de-visual-thinking-api",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ange1D/Cursos-de-Visual-Thinking-API.git"
+  },
+  "author": "Ange1D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ange1D/Cursos-de-Visual-Thinking-API/issues"
+  },
+  "homepage": "https://github.com/Ange1D/Cursos-de-Visual-Thinking-API#readme"
+}
